@@ -4,9 +4,27 @@ img {
   left: 50%;
   margin-top: -50px;
   margin-left: -100px;
-  height: 170px;
-  width: 170px;
 }
+
 body {
-	background-color: #b7d1c4
+	background-color: #FFCC00
 	}
+	
+li {	
+	font-family: Futura, Tahoma, sans-serif;
+	color: #ffffff;
+}
+
+#menubar {
+	position: fixed;
+	top:50%;
+	left:75%;
+	margin-left:-254px;
+	margin-top: -50px;
+}
+#textcss {
+	position: fixed;
+	top:50%;
+	left:30%;
+	margin-left:-254px;
+	margin-top: -50px;
