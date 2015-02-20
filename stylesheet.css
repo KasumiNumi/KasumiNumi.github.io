@@ -5,8 +5,17 @@ img {
   margin-top: -50px;
   margin-left: -100px;
 }
+
+a {
+    text-decoration: none;
+}
+
 ul{
     list-style-type: none;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: 2em;
 }
 body {
 	background-color: #FFCC00
@@ -40,11 +49,4 @@ li {
 
 #needindent{ 
 	text-indent: 10%; 
-}
-
-#vklogo img{ 
-	width:50px;
-	height:50px;
-	bottom:50px;
-	position: relative:
 }
